@@ -1,0 +1,6 @@
+PRÉ-REQUISITOS:
+	npm install request
+	npm install tesseract.js
+
+EXECUÇÃO:
+	node tesseract2.js
